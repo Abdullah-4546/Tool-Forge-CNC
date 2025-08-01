@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "name": "Admin Dashboard",
+        "url": "/admin/dashboard"
+      },
+    
+      {
+        "name": "Create Category",
+        "url": "/admin/dashboard/create-category"
+      },
+      {
+        "name": "Veiw Category",
+        "url": "/admin/dashboard/view-category"
+      },
+      {
+        "name": "All Products",
+        "url": "/admin/dashboard/products"
+      },
+      {
+        "name": "All Users",
+        "url": "/admin/dashboard/users"
+      },
+      {
+        "name": "All Order",
+        "url": "/admin/dashboard/orders"
+      },
+      {
+        "name": "Banned Seller",
+        "url": "/admin/dashboard/banned-sellers"
+      },
+      
+      {
+        "name": "back",
+        "url": "/"
+      }
+    ]
+  }
+  

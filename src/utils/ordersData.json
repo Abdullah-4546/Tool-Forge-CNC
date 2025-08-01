@@ -1,0 +1,194 @@
+{
+    "success": true,
+    "data": [
+      {
+        "_id": "65fcc381d7ad29d40853c16e",
+        "user": {
+          "_id": "65f5e9274d083ad59a982f59",
+          "username": "loacl user",
+          "email": "local@gmail.com",
+          "isSeller": false,
+          "role": "user",
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWY1ZTkyNzRkMDgzYWQ1OWE5ODJmNTkiLCJlbWFpbCI6ImxvY2FsQGdtYWlsLmNvbSIsImlhdCI6MTcxMTU3NDU2NSwiZXhwIjoxNzE0MTY2NTY1fQ.CVKB4o6aXZqMHQDGitk3NAbh47KgKKMBWp_miIyLG6E",
+          "createdAt": "2024-03-16T18:47:03.393Z",
+          "updatedAt": "2024-03-27T21:22:45.333Z",
+          "__v": 0
+        },
+        "seller": {
+            "companyName":"AppleStore"
+        },
+        "products": [
+          {
+            "dimensions": {
+              "length": 10,
+              "width": 10,
+              "height": 10
+            },
+            "_id": "65f9fc7eddcfc6d47e3b59ec",
+            "name": "product 1",
+            "description": "this is a description",
+            "price": 1800,
+            "quantity": 2,
+            "images": [
+              {
+                "public_id": "hlcccubgvqgu2s0qi0vs",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881726/hlcccubgvqgu2s0qi0vs.jpg",
+                "_id": "65f9fc7eddcfc6d47e3b59ed"
+              },
+              {
+                "public_id": "qaj4vouirafscn5mrflo",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881722/qaj4vouirafscn5mrflo.jpg",
+                "_id": "65f9fc7eddcfc6d47e3b59ee"
+              }
+            ],
+            "brand": "local",
+            "color": "red",
+            "size": "size",
+            "weight": 20,
+            "seller": "65f9f9d6bac1b1f8ce1f08a5",
+            "reviews": [],
+            "createdAt": "2024-03-19T20:58:38.885Z",
+            "updatedAt": "2024-03-19T20:58:38.885Z",
+            "__v": 0
+          },
+          {
+            "dimensions": {
+              "length": 10,
+              "width": 10,
+              "height": 10
+            },
+            "_id": "65f9fc9bddcfc6d47e3b59f2",
+            "name": "product 2",
+            "description": "this is a description",
+            "price": 1800,
+            "quantity": 2,
+            "images": [
+              {
+                "public_id": "tkupc7egyrc0ip56kwts",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881754/tkupc7egyrc0ip56kwts.jpg",
+                "_id": "65f9fc9bddcfc6d47e3b59f3"
+              },
+              {
+                "public_id": "uzabqjoak4w3ch32lskm",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881750/uzabqjoak4w3ch32lskm.jpg",
+                "_id": "65f9fc9bddcfc6d47e3b59f4"
+              }
+            ],
+            "brand": "local",
+            "color": "red",
+            "size": "size",
+            "weight": 20,
+            "seller": "65f9f9d6bac1b1f8ce1f08a5",
+            "reviews": [],
+            "createdAt": "2024-03-19T20:59:07.157Z",
+            "updatedAt": "2024-03-19T20:59:07.157Z",
+            "__v": 0
+          }
+        ],
+        "totalPrice": 200,
+        "status": "Pending",
+        "shippingAddress": "123 Main St, City, Country",
+        "paymentMethod": "COD",
+        "localUserReceipt": false,
+        "orderDate": "2024-03-21T23:32:17.155Z",
+        "createdAt": "2024-03-21T23:32:17.157Z",
+        "updatedAt": "2024-03-21T23:32:17.157Z",
+        "__v": 0
+      },
+      {
+        "_id": "66048e3de33cf3bef30f3f39",
+        "user": {
+          "_id": "65f5e9274d083ad59a982f59",
+          "username": "loacl user",
+          "email": "local@gmail.com",
+          "isSeller": false,
+          "role": "user",
+          "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWY1ZTkyNzRkMDgzYWQ1OWE5ODJmNTkiLCJlbWFpbCI6ImxvY2FsQGdtYWlsLmNvbSIsImlhdCI6MTcxMTU3NDU2NSwiZXhwIjoxNzE0MTY2NTY1fQ.CVKB4o6aXZqMHQDGitk3NAbh47KgKKMBWp_miIyLG6E",
+          "createdAt": "2024-03-16T18:47:03.393Z",
+          "updatedAt": "2024-03-27T21:22:45.333Z",
+          "__v": 0
+        },
+        "seller": {
+            "companyName":"AppleStore"
+        },
+        "products": [
+          {
+            "dimensions": {
+              "length": 10,
+              "width": 10,
+              "height": 10
+            },
+            "_id": "65f9fc7eddcfc6d47e3b59ec",
+            "name": "product 1",
+            "description": "this is a description",
+            "price": 1800,
+            "quantity": 2,
+            "images": [
+              {
+                "public_id": "hlcccubgvqgu2s0qi0vs",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881726/hlcccubgvqgu2s0qi0vs.jpg",
+                "_id": "65f9fc7eddcfc6d47e3b59ed"
+              },
+              {
+                "public_id": "qaj4vouirafscn5mrflo",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881722/qaj4vouirafscn5mrflo.jpg",
+                "_id": "65f9fc7eddcfc6d47e3b59ee"
+              }
+            ],
+            "brand": "local",
+            "color": "red",
+            "size": "size",
+            "weight": 20,
+            "seller": "65f9f9d6bac1b1f8ce1f08a5",
+            "reviews": [],
+            "createdAt": "2024-03-19T20:58:38.885Z",
+            "updatedAt": "2024-03-19T20:58:38.885Z",
+            "__v": 0
+          },
+          {
+            "dimensions": {
+              "length": 10,
+              "width": 10,
+              "height": 10
+            },
+            "_id": "65f9fc9bddcfc6d47e3b59f2",
+            "name": "product 2",
+            "description": "this is a description",
+            "price": 1800,
+            "quantity": 2,
+            "images": [
+              {
+                "public_id": "tkupc7egyrc0ip56kwts",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881754/tkupc7egyrc0ip56kwts.jpg",
+                "_id": "65f9fc9bddcfc6d47e3b59f3"
+              },
+              {
+                "public_id": "uzabqjoak4w3ch32lskm",
+                "url": "https://res.cloudinary.com/dyqydgprg/image/upload/v1710881750/uzabqjoak4w3ch32lskm.jpg",
+                "_id": "65f9fc9bddcfc6d47e3b59f4"
+              }
+            ],
+            "brand": "local",
+            "color": "red",
+            "size": "size",
+            "weight": 20,
+            "seller": "65f9f9d6bac1b1f8ce1f08a5",
+            "reviews": [],
+            "createdAt": "2024-03-19T20:59:07.157Z",
+            "updatedAt": "2024-03-19T20:59:07.157Z",
+            "__v": 0
+          }
+        ],
+        "totalPrice": 200,
+        "status": "Pending",
+        "shippingAddress": "123 Main St, City, Country",
+        "paymentMethod": "COD",
+        "localUserReceipt": false,
+        "orderDate": "2024-03-27T21:23:09.755Z",
+        "createdAt": "2024-03-27T21:23:09.756Z",
+        "updatedAt": "2024-03-27T21:23:09.756Z",
+        "__v": 0
+      }
+    ]
+  }
+  

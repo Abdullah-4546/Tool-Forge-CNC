@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "Seller Dashboard",
+      "url": "/seller/dashboard"
+    },
+    {
+      "name": "Create Product",
+      "url": "/seller/dashboard/create-product"
+    },
+
+    {
+      "name": "Veiw Products",
+      "url": "/seller/dashboard/view-products"
+    },
+    {
+      "name": "Orders",
+      "url": "/seller/dashboard/orders"
+    },
+    {
+      "name": "Create Bidding",
+      "url": "/seller/dashboard/create-container"
+    },
+    {
+      "name": "View Bidding",
+      "url": "/seller/dashboard/view-containers"
+    }
+  ]
+}
